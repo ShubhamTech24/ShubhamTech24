@@ -1,183 +1,178 @@
-# 👋 Hi, I'm Shubham Vishwakarma
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Shubham+Vishwakarma;AI+Developer;Operating+System+Developer;Android+Developer;Building+Intelligent+Systems&center=true&width=700&height=50">
+</p>
 
-🚀 **Software Developer | AI Enthusiast | System Programming Explorer**
-🎓 **B.Tech in Information Technology (Graduating 2026)**
-📍 Ujjain, Madhya Pradesh, India
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhamTech24&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-I am passionate about building **AI systems, operating systems, intelligent applications, and modern software solutions**.
-My interests include **Artificial Intelligence, System Programming, Android Development, and Backend Engineering**.
+---
+
+# 👨‍💻 Shubham Vishwakarma
+
+🚀 **AI Developer | System Programming Enthusiast | Android Developer**  
+🎓 **B.Tech Information Technology (2026)**  
+📍 Ujjain, Madhya Pradesh, India  
+
+I love building **intelligent systems, AI-powered applications, and low-level software like operating systems**.  
+My work combines **AI, system programming, and full-stack development** to create impactful software.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 SynapseOS – Custom Operating System
+## 🧠 SynapseOS
+Custom **Operating System built from scratch** using **C and Assembly** with a graphical desktop environment.
 
-A custom-built operating system developed from scratch using **C and Assembly** with a graphical desktop interface and a smart AI command shell.
+**Highlights**
 
-**Key Features**
+• Custom kernel and bootloader  
+• Graphical desktop interface  
+• Built-in Notepad application  
+• AI-powered Smart Shell commands  
 
-* Custom kernel and bootloader
-* Graphical desktop environment
-* Built-in applications like Notepad
-* AI-powered Smart Shell commands
-* Mouse and keyboard interaction support
+**Tech**
 
-**Technologies**
+`C` `Assembly` `Kernel Development` `OSDev`
 
-`C` `Assembly` `OS Development` `Kernel Programming`
-
-Repository:
-[https://github.com/ShubhamTech24/SynapseOS](https://github.com/ShubhamTech24/SynapseOS)
+🔗 Repository  
+https://github.com/ShubhamTech24/SynapseOS
 
 ---
 
 ## 🤖 Echo AI Chatbot (Android)
 
-An AI-powered chatbot application built in **Android Studio using Java** that allows users to interact with AI through a mobile chat interface.
+AI-powered chatbot application built using **Java and Android Studio**.
 
 **Features**
 
-* AI conversational chatbot
-* Real-time messaging interface
-* AI API integration
-* Interactive mobile UI
+• AI conversational assistant  
+• Real-time chat interface  
+• AI API integration  
+• Material UI design  
 
-**Technologies**
+**Tech**
 
 `Java` `Android Studio` `AI APIs`
 
-Repository:
-[https://github.com/ShubhamTech24/EchoAI-Chatbot](https://github.com/ShubhamTech24/EchoAI-Chatbot)
-
 ---
 
-## 📄 AI Document Assistant (RAG System)
+## 📄 AI Document Assistant (RAG)
 
-An intelligent document question-answering system that allows users to upload documents and ask questions.
-
-The system uses **Retrieval-Augmented Generation (RAG)** to retrieve relevant document context and generate AI-powered answers.
+An **LLM-powered document intelligence system** that allows users to upload documents and ask questions.
 
 **Features**
 
-* Upload PDF/DOCX files
-* AI-powered question answering
-* Semantic search using vector embeddings
-* Source citation for answers
-* Chat-style interface
+• Document question answering  
+• Semantic search using vector embeddings  
+• Source citation  
+• Chat-style interface  
 
-**Technologies**
+**Tech**
 
-`Python` `LangChain` `FAISS` `HuggingFace` `Groq LLM` `Streamlit`
+`Python` `LangChain` `FAISS` `HuggingFace` `Groq`
 
 ---
 
 ## 🌦 AeroSense Weather App
 
-A modern weather monitoring application that provides real-time weather updates using external APIs.
+Real-time weather monitoring application providing environmental insights.
 
 **Features**
 
-* Real-time weather information
-* Temperature and humidity monitoring
-* Wind speed tracking
-* Location-based weather updates
+• Temperature & humidity monitoring  
+• Wind speed tracking  
+• API-based weather forecasts  
 
-**Technologies**
+**Tech**
 
 `HTML` `CSS` `JavaScript` `Weather APIs`
 
 ---
 
-## 🛡 Suraksha Setu – Smart Safety Platform
+## 🛡 Suraksha Setu
 
-A technology-driven safety platform designed to improve public security through **real-time incident reporting and emergency alerts**.
+Smart safety platform for **emergency alerts and incident reporting**.
 
 **Features**
 
-* Emergency alert system
-* Incident reporting platform
-* Real-time safety monitoring
-* Communication between citizens and authorities
-
-**Technologies**
-
-`Web Technologies` `API Integration` `Real-Time Systems`
+• Real-time safety alerts  
+• Incident reporting system  
+• Location-based monitoring  
 
 ---
 
-# 🛠 Technical Skills
+# 🛠 Tech Stack
 
 ### Programming Languages
 
-```
-Java
-Python
-C
-JavaScript
-```
-
-### Technologies & Frameworks
-
-```
-Artificial Intelligence
-Machine Learning
-Android Development
-Operating System Development
-Web Development
-REST APIs
-```
-
-### Tools & Platforms
-
-```
-Git
-GitHub
-Android Studio
-VS Code
-Docker
-VirtualBox
-```
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
-# 📊 GitHub Statistics
+### Technologies
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamTech24\&show_icons=true\&theme=tokyonight)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-black?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamTech24\&layout=compact\&theme=tokyonight)
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTech24&show_icons=true&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamTech24&layout=compact&theme=tokyonight" height="170">
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShubhamTech24&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://github.com/ShubhamTech24/ShubhamTech24/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-* Advanced **AI & Generative AI**
-* **Spring AI**
-* **Large Language Models (LLMs)**
-* **Distributed Systems**
-* **Cloud Deployment**
+• Advanced **Generative AI**  
+• **Spring AI & LLM Integration**  
+• **Distributed Systems**  
+• **Cloud Deployment**
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Career Vision
 
-My goal is to become a **Software Engineer specializing in AI-driven systems and intelligent applications**, contributing to impactful technologies in areas like **AI, operating systems, and scalable backend systems**.
+My goal is to become a **Software Engineer specializing in AI-driven systems and intelligent software platforms**, working on technologies that combine **AI, systems programming, and scalable backend architectures**.
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email
-[vishwshubham62@gmail.com](mailto:vishwshubham62@gmail.com)
+📧 Email  
+vishwshubham62@gmail.com  
 
-💼 LinkedIn
-[https://linkedin.com/in/shubham-vishwakarma-358332209](https://linkedin.com/in/shubham-vishwakarma-358332209)
+💼 LinkedIn  
+https://linkedin.com/in/shubham-vishwakarma-358332209  
 
-💻 GitHub
-[https://github.com/ShubhamTech24](https://github.com/ShubhamTech24)
+💻 GitHub  
+https://github.com/ShubhamTech24  
 
 ---
 
-⭐ If you like my projects, feel free to **star the repositories and connect with me**.
-
-
+⭐ *If you find my projects interesting, feel free to star them and connect with me!*
