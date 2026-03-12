@@ -1,8 +1,3 @@
-Here is a **professional, interactive, and attractive GitHub Profile README** for your **`ShubhamTech24`** profile.
-Create a repository named **`ShubhamTech24`** (same as your username) and add this as `README.md`.
-
----
-
 # 👋 Hi, I'm Shubham Vishwakarma
 
 🚀 **Software Developer | AI Enthusiast | System Programming Explorer**
