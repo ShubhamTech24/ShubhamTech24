@@ -12,7 +12,7 @@
 
 🚀 **AI Developer | System Programming Enthusiast | Android Developer**  
 🎓 **B.Tech Information Technology (2026)**  
-📍 Ujjain, Madhya Pradesh, India  
+📍 Ahmedabad, Gujarat, India  
 
 I love building **intelligent systems, AI-powered applications, and low-level software like operating systems**.  
 My work combines **AI, system programming, and full-stack development** to create impactful software.
